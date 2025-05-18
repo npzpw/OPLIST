@@ -15,5 +15,4 @@
 | oplist.command | Permission for /oplist | true |
 
 # Contact
-[![Discord](https://img.shields.io/discord/848837759611306016?label=discord&color=7289DA&logo=discord)]
 **You can contact me directly via Discord `@npz.pw`**
