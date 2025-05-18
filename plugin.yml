@@ -1,0 +1,19 @@
+---
+name: OPLIST
+version: 0.0.1
+main: npz\OPLIST\Main
+api: 5.28.0
+website: https://github.com/npzpw
+description: Show list of operators
+src-namespace-prefix: npz\OPLIST
+
+commands:
+  oplist:
+    description: Show list of operators
+    aliases: [ops]
+    permission: oplist.command
+permissions:
+  oplist.command:
+    description: Permission for /oplist
+    default: true
+...
